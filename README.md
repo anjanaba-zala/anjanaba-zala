@@ -8,12 +8,6 @@
 - 📫 How to reach me **anjanabahzala@gmail.com**
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanaba-zala&show_icons=true&locale=en" alt="anjanaba-zala" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjanaba-zala&show_icons=true&locale=en" alt="anjanaba-zala" /></p>
-
 <p align="left">
 <a href="https://linkedin.com/in/anjanaba zala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjanaba zala" height="30" width="40" /></a>
 <a href="https://fb.com/anjaniba zala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anjaniba zala" height="30" width="40" /></a>
