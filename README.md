@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anjanaba-zala&label=Profile%20views&color=0e75b6&style=flat" alt="anjanaba-zala" /> </p>
 
-- 🌱 I’m currently learning **Machine Learniong**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **anjanabahzala@gmail.com**
 
